@@ -1,0 +1,11 @@
+{
+    "name": "CITIZEN",
+    "website": "",
+    "description": "Eradicate poverty",
+    "explorer": "https://bscscan.com/token/0x7d39e1a1559e206b957e7ceb5c67f03fade0f55c",
+    "symbol": "CTZ",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7d39e1a1559e206b957e7ceb5c67f03fade0f55c"
+}
